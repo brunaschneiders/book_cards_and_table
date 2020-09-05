@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(136, 133, 133);
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+.global {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.books {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
